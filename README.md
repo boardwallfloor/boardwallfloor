@@ -41,7 +41,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/faris-t-05b348187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faris%20Takhassuna%20Zamzani-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:takhassuna.fz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-takhassuna.fz@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://rxresu.me/r/gxsg2x">My Resume </a>
+<a href="https://rxresu.me/r/gxsg2x"><img src="https://img.shields.io/badge/Resume-Faris Takhassuna Zamzani-blue?style=flat"/></a>
 </p>
 
 ⭐️ From [boardwallfloor](https://github.com/boardwallfloor)
