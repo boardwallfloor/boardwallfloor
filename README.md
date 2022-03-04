@@ -17,15 +17,18 @@
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
   ![NodeJS](https://img.shields.io/badge/-Node-333333?style=flat&logo=Node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
   ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=SublimeText)
+  ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=Neovim)
  
 <br/>
 
