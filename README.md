@@ -32,10 +32,6 @@
  
 <br/>
 
-<a href="https://github.com/boardwallfloor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boardwallfloor&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boardwallfloor&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
